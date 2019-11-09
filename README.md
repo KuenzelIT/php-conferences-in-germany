@@ -1,4 +1,4 @@
-# web-developer-conferences-in-germany
+# Web developer conferences in germany
 A list of web developer conferences in germany.
 
 # PHP conferences
