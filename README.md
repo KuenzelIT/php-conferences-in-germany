@@ -1,10 +1,11 @@
-# php-conferences-in-germany
-A list of php conferences in germany.
+# web-developer-conferences-in-germany
+A list of web developer conferences in germany.
 
+# PHP conferences
 - [International PHP Conference](https://phpconference.com/de/)
-- [PHP.RUHR](https://php.ruhr)
+- [PHP.RUHR](https://php.ruhr) (Dortmund)
 
-## Other conferences
+# Other conferences
 - https://www.codetalks.de/program
 - https://www.web-developer-conference.de/
 - https://websummit.com/
